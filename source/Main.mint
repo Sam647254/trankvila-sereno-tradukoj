@@ -1,19 +1,24 @@
-component Main {
-  style base {
-    font-family: sans;
-    font-weight: bold;
-    font-size: 50px;
-
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    height: 100vh;
-    width: 100vw;
+routes {
+  / {
+    Application.setPage(Page::Index)
   }
 
+  /serenitatesublekumei {
+    Application.setPage(Page::SerenitateSubLeKumei)
+  }
+}
+
+component Main {
+  connect Application exposing { page }
+
   fun render : Html {
-    <div::base>
-      <{ "Hello Mint!" }>
+    <div>
+      <h1><{ "5AM WORKS tradukoj" }></h1>
+
+      case (page) {
+        Page::Index => <div><{ "Index" }></div>
+        Page::SerenitateSubLeKumei => <SerenitateSubLeKumei/>
+      }
     </div>
   }
 }

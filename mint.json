@@ -2,7 +2,7 @@
   "name": "trankvila-sereno-tradukoj",
   "application": {
     "head": "assets/head.html",
-    "title": "trankvila-sereno-tradukoj"
+    "title": "5AM WORKS Tradukoj"
   },
   "source-directories": [
     "source"
