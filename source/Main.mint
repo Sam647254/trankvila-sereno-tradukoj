@@ -11,12 +11,18 @@ routes {
 component Main {
   connect Application exposing { page }
 
-  style {
-    
+  style main {
+    font-family: "Nunito", sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+
+    h1, h2 {
+      text-align: center;
+    }
   }
 
   fun render : Html {
-    <div>
+    <div::main>
       <h1><{ "5AM WORKS tradukoj" }></h1>
 
       case (page) {
