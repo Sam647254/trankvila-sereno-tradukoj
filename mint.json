@@ -1,0 +1,13 @@
+{
+  "name": "trankvila-sereno-tradukoj",
+  "application": {
+    "head": "assets/head.html",
+    "title": "trankvila-sereno-tradukoj"
+  },
+  "source-directories": [
+    "source"
+  ],
+  "test-directories": [
+    "tests"
+  ]
+}
