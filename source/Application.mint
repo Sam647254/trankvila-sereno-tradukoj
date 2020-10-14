@@ -1,6 +1,7 @@
 enum Page {
    Index
    SerenitateSubLeKumei
+   Metilmo
 }
 
 store Application {

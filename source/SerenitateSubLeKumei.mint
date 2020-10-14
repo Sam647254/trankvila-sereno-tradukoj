@@ -1,12 +1,8 @@
 component SerenitateSubLeKumei {
-   style traduko {
-      font-family: "Roboto Slab", serif;
-   }
-
    fun render : Html {
       <div>
          <h2><{ "Serenitate sub le kumei" }></h2>
-         <div::traduko>
+         <div>
             <p><{ "Dark, grey clouds are hanging in the sky."}></p>
 
             <p>
@@ -60,7 +56,7 @@ component SerenitateSubLeKumei {
             </p>
          </div>
          <hr/>
-         <div::traduko>
+         <div>
             <p><{ "Hēi'àn de ū'éun shyuén'gwà zài kōngjōng." }></p>
 
             <p>
