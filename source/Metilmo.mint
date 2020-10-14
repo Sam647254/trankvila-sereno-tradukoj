@@ -44,6 +44,22 @@ component Metilmo {
                 of what life would be like if humans actually lived
                 here." }>
             </p>
+
+            <h4><{ "Alano" }></h4>
+
+            <p>
+                <{ "South of Tlatira is Alano, a district without a
+                single building. It's the area in Metilmo that hosts
+                all outdoor activities and festivities, where the last
+                remaining humans could still find a place to gather
+                around to celebrate achievements, or to commemorate
+                past events. The sheer emptiness of Alano is
+                intimidating. As the night sets in, the floodlights
+                turn on, revealing an emptiness filled with voices
+                and happiness that are only in my head. As I stand
+                in the middle of Alano, I mourn for the future that
+                will never come to be in this world."}>
+            </p>
         </div>
     }
 }
