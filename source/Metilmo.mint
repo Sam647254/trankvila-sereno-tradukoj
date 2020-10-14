@@ -60,6 +60,61 @@ component Metilmo {
                 in the middle of Alano, I mourn for the future that
                 will never come to be in this world."}>
             </p>
+
+            <h4><{ "delta krenotega mel lite / Bright Spot in the Night" }></h4>
+
+            <p>
+                <{ "I went onto the rooftop of one of the residence
+                buildings in Tlatira and gazed upon the cityscape.
+                The streets are basked in the bright streetlights,
+                and, as usual, everything is silent. Since nights
+                are supposed to be quiet anyways, I almost forgot
+                that the entire city is actually empty; I just
+                pretended that all the residents are back home,
+                sleeping through the serene night. Even though I am
+                alone as far as I know, I did not feel lonely at all.
+                In fact, this calmness of the night is quite
+                welcoming. Beyond the city limits, everything is
+                dark." }>
+            </p>
+
+            <h4><{ "rinome sonol seskoma / Winter Without Snow" }></h4>
+
+            <p>
+                <{ "As I rest for the night in the residence building,
+                the cold reality begins to haunt me again. I am the
+                only visitor to this city, the city that became ruins
+                before it was even put to use. All the facilities that
+                were built for the robots, laid to waste, and all the
+                moments that the humans could have shared and
+                experienced, they will forever remain a dream. The
+                world is silent now; the world will be silent forever.
+                A cold, lonely winter will forever linger in this world,
+                only this time, without any snow." }>
+            </p>
+
+            <h4><{ "Alanokonal" }></h4>
+
+            <p>
+                <{ "I awaken in an unknown place, lying on the ground,
+                staring into a blue sky, caressed by the herbs around
+                me. I stand up to see that I am still in Metilmo, with
+                its silver cuboid buildings, but Alano is a lush
+                garden, filled with flowers and an assortment of other
+                vegetation. A gentle wind blows, and the air is warm.
+                Beyond the city limits, what I remembered as a desert
+                are vast grasslands, stretching into infinity." }>
+            </p>
+
+            <p><{ "Perplexed by this imagery, I recall a poem:"}></p>
+
+            <p>
+                <{ "This was my visit to Alanokonal, part of an
+                alternative reality hosted by the supercomputers of
+                Metilmo, depicting what the humans have wanted
+                Metilmo to look like, with everything they have lost,
+                and have long sought." }>
+            </p>
         </div>
     }
 }
