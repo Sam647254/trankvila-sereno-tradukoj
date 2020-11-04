@@ -106,14 +106,29 @@ component Metilmo {
                 are vast grasslands, stretching into infinity." }>
             </p>
 
-            <p><{ "Perplexed by this imagery, I recall a poem:"}></p>
-
             <p>
                 <{ "This was my visit to Alanokonal, part of an
                 alternative reality hosted by the supercomputers of
                 Metilmo, depicting what the humans have wanted
                 Metilmo to look like, with everything they have lost,
-                and have long sought." }>
+                and have long sought. It's called Metilmokonal,
+                simple enough." }>
+            </p>
+
+            <h4><{ "rote nal Rivernal" }></h4>
+
+            <p>
+                <{ "Stepping beyond the city borders of Metilmokonal,
+                I stand in front of the infinite grasslands, witnessing
+                the bright light from this simulated sunrise. I guess
+                this symbolizes the hope and dreams of the people
+                that would have lived in Metilmo. The scenery is
+                marvellous, although I am also sad that its creators
+                could not have witnessed it. While I know that nothing
+                that I am looking at is real, and that I will have to
+                return to my own world soon, I still pretended that
+                I am a part of everything here, and lived in this
+                moment, before it all fades away." }>
             </p>
         </div>
     }
