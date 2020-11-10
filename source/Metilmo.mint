@@ -61,7 +61,7 @@ component Metilmo {
                 will never come to be in this world."}>
             </p>
 
-            <h4><{ "delta krenotega mel lite / Bright Spot in the Night" }></h4>
+            <h4><{ "krenoteva delta mel lite / Bright Spot in the Night" }></h4>
 
             <p>
                 <{ "I went onto the rooftop of one of the residence
