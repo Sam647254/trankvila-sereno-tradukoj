@@ -115,7 +115,7 @@ component Metilmo {
                 simple enough." }>
             </p>
 
-            <h4><{ "rote nal Rivernal" }></h4>
+            <h4><{ "rote nal Rivernal / The Plains of Rivernal" }></h4>
 
             <p>
                 <{ "Stepping beyond the city borders of Metilmokonal,
